@@ -97,7 +97,7 @@
             // Arialabel
             // 
             this.Arialabel.AutoSize = true;
-            this.Arialabel.Location = new System.Drawing.Point(62, 52);
+            this.Arialabel.Location = new System.Drawing.Point(6, 52);
             this.Arialabel.Name = "Arialabel";
             this.Arialabel.Size = new System.Drawing.Size(39, 15);
             this.Arialabel.TabIndex = 7;
@@ -106,7 +106,7 @@
             // СirculFerencelabel
             // 
             this.СirculFerencelabel.AutoSize = true;
-            this.СirculFerencelabel.Location = new System.Drawing.Point(32, 70);
+            this.СirculFerencelabel.Location = new System.Drawing.Point(6, 67);
             this.СirculFerencelabel.Name = "СirculFerencelabel";
             this.СirculFerencelabel.Size = new System.Drawing.Size(91, 15);
             this.СirculFerencelabel.TabIndex = 6;
@@ -115,7 +115,7 @@
             // Diameterlabel
             // 
             this.Diameterlabel.AutoSize = true;
-            this.Diameterlabel.Location = new System.Drawing.Point(48, 37);
+            this.Diameterlabel.Location = new System.Drawing.Point(6, 34);
             this.Diameterlabel.Name = "Diameterlabel";
             this.Diameterlabel.Size = new System.Drawing.Size(66, 15);
             this.Diameterlabel.TabIndex = 5;
@@ -124,15 +124,15 @@
             // Radiuslabel
             // 
             this.Radiuslabel.AutoSize = true;
-            this.Radiuslabel.Location = new System.Drawing.Point(58, 22);
+            this.Radiuslabel.Location = new System.Drawing.Point(6, 19);
             this.Radiuslabel.Name = "Radiuslabel";
-            this.Radiuslabel.Size = new System.Drawing.Size(47, 15);
+            this.Radiuslabel.Size = new System.Drawing.Size(53, 15);
             this.Radiuslabel.TabIndex = 4;
-            this.Radiuslabel.Text = "Radius?";
+            this.Radiuslabel.Text = "Radius: ?";
             // 
             // CalculateButton
             // 
-            this.CalculateButton.Location = new System.Drawing.Point(44, 86);
+            this.CalculateButton.Location = new System.Drawing.Point(6, 84);
             this.CalculateButton.Name = "CalculateButton";
             this.CalculateButton.Size = new System.Drawing.Size(75, 29);
             this.CalculateButton.TabIndex = 3;
